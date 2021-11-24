@@ -1,2 +1,9 @@
-# capstone-project-2
-Done by group 77 of side hustle internship 4.0 -- Sunnyside-agency-landing-page-main
+# sunnyside-agency-landing-page-main
+
+Side Hustle Project for Group 77
+Adesipe Lateef Adeola
+Akintola Oluwafemi
+Derrick Stewart
+Aguluka Ngozi Celestina
+
+
