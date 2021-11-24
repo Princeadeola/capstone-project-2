@@ -1,6 +1,3 @@
-
-
-
 let menu = document.querySelector('.sidemenu-control');
 
 menu.onclick = function(){
